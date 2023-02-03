@@ -1,0 +1,15 @@
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\bin\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.exe
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\bin\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.deps.json
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\bin\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.runtimeconfig.json
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\bin\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.dll
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\bin\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.pdb
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.csproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.AssemblyInfoInputs.cache
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.AssemblyInfo.cs
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.csproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.dll
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\refint\TeoriaLenguajesAlgorimos-FCE.dll
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.pdb
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\TeoriaLenguajesAlgorimos-FCE.genruntimeconfig.cache
+C:\Users\fabia\OneDrive\Documentos\GitHub\TeoriaLenguajesAlgorimos-FCE\obj\Debug\net7.0\ref\TeoriaLenguajesAlgorimos-FCE.dll
